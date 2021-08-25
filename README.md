@@ -1,8 +1,11 @@
-# Getting Started with Create React App
+# Aplicacion Movies utilizando ReactJS HTML y CSS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+En este proyecto prodras ver una aplicacion desarrollada con ReactJs que permite visualizar las peliculas de cartelera y detalles descriptivos de las mismas, tambien se pueden visualizar otras peliculas usando la barra de busqueda. La informacion es obtenida de una API externa. A continuacion muestro algunas imagenes de su funcionalidad.
 
-## Available Scripts
+## Pantalla Principal
+![image](https://user-images.githubusercontent.com/81599890/130869502-f987d895-2b5c-4113-82e4-adb3a1a8dd95.png)
+
+
 
 In the project directory, you can run:
 
